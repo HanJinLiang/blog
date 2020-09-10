@@ -2,7 +2,7 @@
 title: 我的第一篇blog
 date: 2020-09-09 15:00:43
 updated: 2020-09-09 16:00:43
-tags:
+cover: https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png
 ---
 
 # SelectLayout
